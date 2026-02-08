@@ -1,0 +1,6 @@
+name: astrbot_plugin_bili_summary 
+desc: B站视频解析插件 
+help: 监听B站链接，自动解析并合并发送图片和描述，仅支持识别标准 `BV` 号及 `b23.tv` 短链接
+version: v1.3.5
+author: meimingziyongle 
+repo: https://github.com/meimingziyongle/astrbot_plugin_bili_summary
