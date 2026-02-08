@@ -1,3 +1,4 @@
+#注：全代码都是由AI生成，欢迎二开，暂没有更新计划。
 # 🎬 BiliSummary - AstrBot B站视频解析插件
 
 一款为 [AstrBot](https://github.com/Soulter/AstrBot) 打造的 B 站视频深度解析插件。支持自动识别视频链接并生成精美的信息卡片。
